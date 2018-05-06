@@ -1,0 +1,27 @@
+#gameOver {
+  font-size: 3em;
+  color: #03A9F4;
+  position: relative;
+  font-weight: bold;
+  top: 150px;
+  text-align: center;
+  z-index: 15;
+  width: 30%;
+  height: 170px;
+  margin: 0 auto;
+  background-color: #424242;
+}
+
+#gameOver div {
+  padding-top: 2%;
+}
+
+#gameOver button {
+  background-color: #009688;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  margin-bottom: 2%;
+}
